@@ -3,7 +3,7 @@
 ### Modules
 + AutoBedTrap
 + AutoCraft
-+ SurroundPlus
++ [SurroundPlus](https://github.com/AntiCope/orion/blob/main/src/main/java/me/ghosttypes/orion/modules/main/SurroundPlus.java)
 + BurrowPlus
 + Burrow Alert
 + Custom discord presence

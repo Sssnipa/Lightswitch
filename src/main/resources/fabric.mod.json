@@ -11,7 +11,7 @@
   "contact": {
     "repo": "https://github.com/JohanDevv/Lightswitch"
   },
-  "icon": "assets/template/icon.png",
+  "icon": "assets/lightswitch/icon.png",
   "environment": "client",
   "entrypoints": {
     "meteor": [

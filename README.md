@@ -6,4 +6,4 @@
 + SurroundPlus
 + BurrowPlus
 + Burrow Alert
-+ more
++ Custom discord presence

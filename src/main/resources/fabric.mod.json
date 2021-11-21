@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "id": "lightswitch",
   "version": "${version}",
-  "name": "Meteor Addon",
-  "description": "AntiCope Orion skid",
+  "name": "Lightswitch",
+  "description": "A skid",
   "authors": [
     "JohanDevv",
     "Sssnipa"
@@ -21,12 +21,9 @@
   "mixins": [
     "lightswitch.mixins.json"
   ],
-  "custom": {
-    "meteor-client:color": "225,25,25"
-  },
   "depends": {
     "java": ">=16",
-    "minecraft": ">=@mc_version@",
-    "meteor-client": "*"
+    "minecraft": ">=1.17.1",
+    "meteor-client": ">0.4.3"
   }
 }

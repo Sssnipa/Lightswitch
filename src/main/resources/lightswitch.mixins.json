@@ -3,7 +3,7 @@
   "package": "lightswitch.mixins",
   "compatibilityLevel": "JAVA_16",
   "client": [
-
+    "NametagMixin"
   ],
   "injectors": {
     "defaultRequire": 1

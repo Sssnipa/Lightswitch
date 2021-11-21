@@ -12,6 +12,6 @@
 
 ### Credits
 + Utils -> [Orion](https://github.com/AntiCope/orion)
-+ Mixins -> [Orion]
++ Mixins -> [Orion](https://github.com/AntiCope/orion/tree/main/src/main/java/me/ghosttypes/orion/mixins)
 
 skidded by me very skid

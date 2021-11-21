@@ -1,8 +1,9 @@
-# Meteor Addon Template
+# LightSwitch [Beta]
 
-A template to allow easy usage of the Meteor Addon API.
-
-### How to use:  
-- Clone this project
-- Use this template to create new modules/commands
-- Run the mod with Meteor.
+### Modules
++ AutoBedTrap
++ AutoCraft
++ SurroundPlus
++ BurrowPlus
++ Burrow Alert
++ more
